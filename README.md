@@ -36,68 +36,6 @@
 | sachuverma/DataStructures-Algorithms (Striver Section) | Repo with theory, resources, and Striver Sheet questions/solutions in one place. Includes interview prep links. | Multiple | N/A | [Link](https://github.com/sachuverma/DataStructures-Algorithms) |
 
 
-## **Solid 16 foundation DSA problems**
-
-[https://manralai.medium.com/only-15-patterns-to-master-any-coding-interview-570a3afc9042](https://manralai.medium.com/only-15-patterns-to-master-any-coding-interview-570a3afc9042)
-
-## **Top 10 core fundamental programming concepts**
-
-[🧠 Top 10 Fundamental Programming Concepts Every Developer Must Master](https://docs.google.com/document/d/1zc7dbnw5YhkJxKlTsVbZKyMVte5PjXyzjKUFpPwzV7M/edit?usp=sharing)
-
-## **3 Month Cross platform app development**
-
-[📱 Flutter + Firebase App Developer Curriculum (Day-by-Day Plan)](https://docs.google.com/document/d/1aqOKBHyNn1Xe_OlBQT3VatsCtvHtpV1LfTK1SZLEy70/edit?usp=sharing)
-
-## **3 Month web dev road map**
-
-[🚀 3-Month Web Dev Daily Roadmap (2025)](https://docs.google.com/document/d/1RN8982h2Es3uiV1cYJNT_lKjW5fo-6fXnPcJnrYcN2Q/edit?usp=sharing)
-
-## **Best DSA Sheets to solve**
-
-Final year 30 day plan for placement: [https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems)  
-First year detailed plan: [https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
-
-## **Programming languages, domains and frameworks**
-
-Google doc link[list of language and their frameworks](https://docs.google.com/document/d/1qpvP17SdVg9KbxDzMbcWlVeioM3VOUUqRtWl7ljl8Us/edit?usp=sharing)
-
-## **Top 3 Youtube channel to learn programming**
-
-1. Code with harry: [CodeWithHarry \- YouTube](https://www.youtube.com/@CodeWithHarry)  
-2. FreeCodeCamp: [freeCodeCamp.org \- YouTube](https://www.youtube.com/@freecodecamp)  
-3. Take you forward: [take U forward \- YouTube](https://www.youtube.com/@takeUforward)
-
-## **BTech Second Year Resources**
-
-1. BTech first year reel: [https://www.instagram.com/reel/DNB1JUfzwCB/?utm\_source=ig\_web\_button\_share\_sheet\&igsh=MTdxbHR4dmp2bGE2cg==](https://www.instagram.com/reel/DNB1JUfzwCB/?utm_source=ig_web_button_share_sheet&igsh=MTdxbHR4dmp2bGE2cg==)  
-2. DSA Road map reel:  
-   [https://www.instagram.com/reel/DMteHljSE2L/?utm\_source=ig\_web\_button\_share\_sheet\&igsh=MXA4b3JzZ3B6MzZuNg==](https://www.instagram.com/reel/DMteHljSE2L/?utm_source=ig_web_button_share_sheet&igsh=MXA4b3JzZ3B6MzZuNg==)
-
-## **TechStack Resources**
-
-1. Flutter: [The Complete Dart & Flutter Developer Course | Full Tutorial For Beginners to Advanced](https://youtu.be/CzRQ9mnmh44?feature=shared)  
-2. MERN stack: [MERN Stack With TypeScript Tutorial || Library Management System](https://youtu.be/4H_nQgKJpf4?feature=shared)
-
-## **DSA Resources**
-
-1. **DSA 180 problems**: [https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)  
-2. **Bonus solutions**: [https://github.com/Azad99-9/LeetCode-Solutions](https://github.com/Azad99-9/LeetCode-Solutions)
-
-## **How to learn Git & GitHub**
-
-1. **Video link**: [Complete Git and GitHub Tutorial](https://youtu.be/apGV9Kg7ics?feature=shared) 
-
-## **How to learn Java**
-
-1. **Video link**: [Java Full Course \[NEW\]](https://www.youtube.com/watch?v=Qgl81fPcLc8)  
-2. **Problems link**: [Solve Java | HackerRank](https://www.hackerrank.com/domains/java?badge_type=java)	  
-     
-
-
-
-    creadit : [Shaik Azad](https://www.instagram.com/shaikazad2003/)
-
-
 
 ### Interview Practice Questions: 180 DSA Problems
 
@@ -323,6 +261,15 @@ This PDF covers explanations, examples, and prerequisites for arrays, strings, l
 - **Codeforces**: Competitive programming for speed. [codeforces.com](https://codeforces.com/)
 - **HackerRank**: Domain-specific challenges. [hackerrank.com](https://www.hackerrank.com/)
 
+---
+
+### ✨ Contribute
+Found a great tool or guide?  
+Open a pull request and add it here — let’s make this a living resource for developers!
+
+---
+
+Check out the [Developer Tools Resources](docs/dev-tools.md) for more details.
 ---
 - last updated : 2 october 2025
 - rsvn
